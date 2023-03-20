@@ -1,4 +1,4 @@
-## **Python script for converting 4 JSON files to single COCO format JSON**
+# Python script for converting 4 JSON files to single COCO format JSON
 
 
 This Python script is designed to take 4 individual JSON files from a directory and convert them into a single COCO format file. The COCO format is commonly used in computer vision applications and provides a standard way of organizing and annotating image data.
